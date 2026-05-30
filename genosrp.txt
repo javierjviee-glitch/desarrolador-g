@@ -1,0 +1,7 @@
+"genosrp"
+{
+	"base" 			"helix"
+	"title" 		"GenosRP"
+	"author" 		"TuNombre"
+	"menusystem"	"1"
+}
