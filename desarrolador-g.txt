@@ -1,7 +1,7 @@
-"genosrp"
+"desarrolador-g"
 {
 	"base" 			"helix"
-	"title" 		"GenosRP"
+	"title" 		"desarrolador-g"
 	"author" 		"TuNombre"
 	"menusystem"	"1"
 }
